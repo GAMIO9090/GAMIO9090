@@ -5,6 +5,6 @@
 - 📫 How to reach me hs8285691@gmail.com
 
 <!---
-GAMIO9090/GAMIO9090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HARSHIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
